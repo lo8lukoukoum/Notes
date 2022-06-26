@@ -1,5 +1,7 @@
 ![image](https://user-images.githubusercontent.com/42563981/175800808-bbae7bc6-401d-4543-90e9-5184fd4df129.png)
 
+sudo apt install linux-headers-5.18.0-kali2-amd64
+
 wget https://github.com/mkubecek/vmware-host-modules/archive/workstation-16.2.3.tar.gz
 
 tar -xzf workstation-16.2.3.tar.gz
